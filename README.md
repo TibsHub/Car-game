@@ -11,7 +11,6 @@ Issues:
 
 If a car drives onto the middle area it will slow down and eventually come to a halt.
 
-Control:
-Dir   U D L R
+Control (accelerate, brake, L, R):
 P1 -> A W S D
 P2 -> Arrow keys
